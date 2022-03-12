@@ -44,7 +44,7 @@ const highlightMenu = () => {
     servicesMenu.classList.remove('highlight');
     contactMenu.classList.remove('highlight');
     return;
-  }else if (window.innerWidth > 960 && scrollPos < 4100) {
+  }else if (window.innerWidth > 960 && scrollPos < 4200) {
     contactMenu.classList.add('highlight');
     projectsMenu.classList.remove('highlight');
     return;
