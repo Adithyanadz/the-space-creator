@@ -52,6 +52,7 @@
   cursor: pointer;
   text-decoration: none;
   font-size: 2.5rem;
+  font-weight:500;
 }
 
 
@@ -187,7 +188,7 @@
       rgba(0, 0, 0, 0.72),
       rgba(0, 0, 0, 0.58)
     ),
-    url(images/banner2.jpg);
+    url(images/hero1.jpg);
   background-size: cover;
   align-items: center;
   object-fit: contain;
@@ -196,7 +197,7 @@
   list-style-type: none;
   background-position: center;
   background-attachment: scroll;
-  padding: 200px 0;
+  padding: 210px 0;
   height: 100%;
 }
 
