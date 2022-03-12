@@ -108,7 +108,7 @@
   }
 
   .navbar__menu.active {
-    background: #cccaca;
+    background:  linear-gradient(to top, #000000 0%, #242222 100%);
     top: 100%;
     opacity: 1;
     transition: all 0.5s ease;
@@ -127,7 +127,7 @@
     height: 3px;
     margin: 5px auto;
     transition: all 0.3s ease-in-out;
-    background: rgb(0, 0, 0);
+    background: #ffb68c;
   }
 
   .navbar__item {
